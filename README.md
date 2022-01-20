@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nalla12;
 - 👨‍💻 I have several years of experience with HTML, CSS, jQuery and Wordpress;
 - 👀 I’m interested in becoming a front-end web developer;
-- 🌱 I’m currently learning Angular;
+- 🌱 I’m currently learning Angular and React;
 - 💞️ I’m looking to collaborate on ... nothing yet;
 - 📫 How to reach me: linkedin.com/in/allanduong
 
